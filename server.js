@@ -22,3 +22,8 @@ function quintoCommitFeature() {
 function sextoCommitFeature() {
     console.log("sexto commit solo developer");
 }
+
+
+function septimoCommitFeature() {
+    console.log("septimo commit solo developer");
+}
