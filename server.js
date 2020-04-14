@@ -35,3 +35,7 @@ function octavoCommitFeature() {
 function novenoCommitFeature() {
     console.log("noveno commit solo developer");
 }
+
+function decimoommitFeature() {
+    console.log("noveno commit solo developer");
+}
