@@ -27,3 +27,7 @@ function sextoCommitFeature() {
 function septimoCommitFeature() {
     console.log("septimo commit solo developer");
 }
+
+function octavoCommitFeature() {
+    console.log("octavo commit solo developer");
+}
