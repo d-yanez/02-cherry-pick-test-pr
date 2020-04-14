@@ -1,5 +1,5 @@
 function primerCommit() {
-    console.log("Primer commit");
+    console.log("Primer commit OK!!!");
 }
 
 function tercerCommit() {
